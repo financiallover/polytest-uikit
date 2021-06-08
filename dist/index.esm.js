@@ -12,7 +12,7 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 Copyright (c) Microsoft Corporation.
 
 Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted.
+purpose with or without fee is hereby grabasented.
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
 REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
@@ -2794,8 +2794,8 @@ var templateObject_1$K;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#f48337",
-    primaryBright: "#f48337",
+    primary: "#eb4034",
+    primaryBright: "#eb4034",
     primaryDark: "#FFFFFF",
     secondary: "#d47231",
     success: "#31D0AA",
